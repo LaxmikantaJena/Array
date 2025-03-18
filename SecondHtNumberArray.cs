@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PROGRAMMINGPART
 {
+    //Find the second Highest Number in Array
     internal class SecondHtNumberArray
     {
         public static void Main(string[] args)
